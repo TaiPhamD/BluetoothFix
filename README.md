@@ -4,3 +4,6 @@ Script to kill bluetoothd process on wake. This is a work around for a bug where
 
 # Prereq
 - sleepwatcher
+
+# Install instruction
+- clone this repo then run install.sh
